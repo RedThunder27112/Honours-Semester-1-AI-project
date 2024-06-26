@@ -1,0 +1,1 @@
+This project is Super tick tack toe (9, 3x3 boards). It uses reinforcement learning to play against the player. AI vs RNG is around 83% wins and 5% losses. There is a GUI and Console display of the game.
